@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Eleventy Blog - Simple Starter | AppSeed",
+  "url": "https://eleventy-blogplay.appseed.us/",
+  "description": "Simple blog starter built with Eleventy (11ty) SSG.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Simple blog starter built with Eleventy (11ty) SSG.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://eleventy-blogplay.appseed.us/feed.xml",
+    "id": "https://eleventy-blogplay.appseed.us/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Sm0ke",
+    "email": "support@appseed.us"
   }
 }
